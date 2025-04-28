@@ -1,0 +1,9 @@
+# requirements.txt
+
+```txt
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+xgboost
